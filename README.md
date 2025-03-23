@@ -20,3 +20,6 @@ This project demonstrates a simple **card view layout** using **HTML and CSS**. 
 - **HTML5** for structure  
 - **CSS3** for styling  
 
+clone this project:- 
+
+git clone https://github.com/kundusomnath610/HTML-CSS-Assignment.git
